@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(special_array_with_x_elements_greater_than_or_equal_x)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(special_array_with_x_elements_greater_than_or_equal_x main.cpp)
